@@ -33,8 +33,8 @@
   color: #00adb5;
 }
 
-/* HOME */
-/* HOME PRO */
+
+/* HOME  */
 .home {
   min-height: 100vh;
   display: flex;
@@ -72,7 +72,7 @@
   opacity: 0.9;
 }
 
-/* BOTON PRO */
+/* BOTON  */
 .btn {
   display: inline-block;
   margin-top: 30px;
@@ -124,7 +124,7 @@
   transform: scale(1.05);
 }
 
-/* FEATURES */
+/* CARACTERISTICAS*/
 .features {
   padding: 40px;
   text-align: center;
@@ -234,7 +234,7 @@
 }
 
 
-/* HERO FEATURES */
+/* CARACTERISTICAS */
 .hero-features {
   height: 60vh;
   display: flex;
@@ -260,7 +260,7 @@
   font-size: 1.2rem;
 }
 
-/* FEATURES MEJORADAS */
+/* CARACTERISTICAS MEJORADAS */
 .features {
   padding: 60px 20px;
   text-align: center;
